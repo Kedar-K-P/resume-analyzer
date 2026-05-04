@@ -1,13 +1,1 @@
-# Resume.AI — Streamlit deployment dependencies
-
-# ── Streamlit ──────────────────────────────────────────────────────────────────
 streamlit>=1.32.0
-
-# ── ML / NER model ─────────────────────────────────────────────────────────────
-numpy>=1.24.0
-scikit-learn>=1.2.0
-
-# ── (Optional) Keep FastAPI for local API usage — comment out for Streamlit only
-# fastapi>=0.104.0
-# uvicorn[standard]>=0.24.0
-# python-multipart>=0.0.6
